@@ -1,0 +1,46 @@
+.wsx {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50px, -50px);
+    height: 62px;
+    width: 62px;
+
+
+}
+
+.qaz {
+    position: absolute;
+
+    background-color: rgba(21, 34, 66, 0.5);
+    width: 800px;
+    height: 220px;
+
+}
+
+.wrapper {
+    background-image: url(../img/Rectangle_16.png);
+    height: 223px;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    background-size: cover;
+
+
+    width: 800px;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+
+    margin: 0;
+}
+
+body,
+html {
+    height: 100%;
+}
